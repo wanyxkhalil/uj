@@ -8,3 +8,8 @@ Util for Java
 
 - Util: `recursion/TailRecursion`
 - Usage: `recursion/TailRecursionTest`
+
+## 雪花算法实现
+
+- Util: `id/Snowflake`
+- Usage: `id/SnowflakeTest`

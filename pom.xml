@@ -6,7 +6,7 @@
 
     <groupId>com.github.wanyxkhalil</groupId>
     <artifactId>uj</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.1</version>
 
     <name>uj</name>
     <url>https://github.com/wanyxkhalil/uj</url>
@@ -55,4 +55,12 @@
             </plugin>
         </plugins>
     </build>
+
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub OWNER Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/wanyxkhalil/uj</url>
+        </repository>
+    </distributionManagement>
 </project>
